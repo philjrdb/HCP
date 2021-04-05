@@ -1,6 +1,5 @@
 # HCP
-Data and extraction scripts for Planets &amp; Pirates (human conditioned punishment) task 
-Planets and Pirates code available at https://github.com/jessica-c-lee/planets-task/
+Data and extraction scripts for Planets &amp; Pirates (human conditioned punishment) task (task code available at https://github.com/jessica-c-lee/planets-task/)
 
 **Extraction** 
 json (.txt) data extracted in MATLAB. HCP_MAT2SPSS creates SPSSdata.csv file for import into SPSS.
