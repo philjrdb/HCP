@@ -2,7 +2,8 @@
 % Puts HCPsum and questionnaire variables 
 
 %% By Philip Jean-Richard-dit-Bressel, UNSW Sydney, 2020
-% Feel free to use with citation: Jean-Richard-dit-Bressel, Lee et al. (2021). https://elifesciences.org/articles/69594
+% Feel free to use with citation: 
+% Jean-Richard-dit-Bressel, Lee et al. (2021). https://elifesciences.org/articles/69594
 
 %% GNU
 % This program is free software: you can redistribute it and/or modify
